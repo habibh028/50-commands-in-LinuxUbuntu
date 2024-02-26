@@ -150,7 +150,6 @@
 
     ![32](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/79381210-7654-4aca-a793-ef3eb4cd56c1)
 
-
 40.        last
     perintah `last` digunakan di sistem Linux untuk menampilkan riwayat masuk dan keluar pengguna yang tercatat dalam file log sistem
     ![33](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/040dac8f-3c78-43f0-b739-ffb655309955)
