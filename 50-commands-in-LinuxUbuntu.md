@@ -80,87 +80,137 @@
 
     ![18](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/a6461c35-6a50-4936-ae4a-1d6de5e37de8)
 
-21.        w
+20.        w
     Perintah `w` digunakan untuk menampilkan informasi tentang pengguna yang sedang masuk ke sistem dan aktivitas mereka. 
 
     ![19](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/e7abcb78-e12e-4e3c-9093-6581c38dd434)
 
-22.        sudo snap install calander
+21.        sudo snap install calander
     perintah ini di gunakan untuk menginstall calander
     ![20](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/55dd5ccb-9adc-4434-9a5e-363eb070b07a)
 
-23.        calander
+22.        calander
     Perintah ini secara default akan menampilkan kalender bulan ini dengan penyorotan pada hari ini.
     ![21 1](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/ce78aa29-564b-401c-92e2-a18cf18da196)
     ![21 2](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/f38c8ea8-aa65-4735-90c6-23841d98f081)
 
-24.         history
+23.         history
     Perintah `history` digunakan di sistem Linux untuk menampilkan daftar perintah yang telah dijalankan sebelumnya oleh pengguna di terminal    
 
     ![22](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/4e7aaee3-0b66-48d1-ade3-018c29fb8aad)
 
-26.        sudo su
+24.        sudo su
      Perintah `sudo su` digunakan untuk beralih ke akun root atau superuser (pengguna dengan hak akses administratif penuh) di sistem Linux. Dengan menjalankan perintah ini, Anda akan masuk ke sesi shell baru sebagai root, yang memberi Anda akses penuh terhadap sistem tanpa batasan.
 
     ![23](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/284d1784-86ec-454d-9a19-c4a108da4846)
 
-28.        kill -l
+25.        kill -l
     Perintah kill -l digunakan di sistem Linux untuk menampilkan daftar sinyal yang dapat digunakan dengan perintah kill untuk mengirim sinyal ke proses yang     sedang berjalan. Sinyal ini digunakan untuk mengendalikan perilaku proses, seperti menghentikan, mengirim ulang, atau menghentikan proses dengan lembut.
 
     ![25](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/b70d9384-eff4-4e54-9950-f8686fbe77ee)
 
-30.        bpytop
+26.        bpytop
      `bpytop` adalah sebuah alat pemantauan sistem yang interaktif dan berbasis teks untuk terminal Linux. Ini menampilkan informasi yang terperinci tentang penggunaan CPU, memori, jaringan, penyimpanan, dan proses sistem secara real-time dalam tampilan yang mudah dibaca.
 
-31.      passwd  
+27.      passwd  
     Perintah `passwd` digunakan di sistem Linux untuk mengganti kata sandi (password) pengguna. 
 
     ![26](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/4368acd0-615a-433d-b175-62940e2054bb)
 
-33.         sudo adduser nama_pengguna
+28.         sudo adduser nama_pengguna
     Perintah `adduser` digunakan di sistem Linux untuk menambahkan pengguna baru ke sistem. Ketika Anda menjalankan perintah ini, sistem akan memandu Anda melalui proses pembuatan pengguna baru, termasuk memberikan nama pengguna, memasukkan kata sandi, dan mengisi informasi tambahan seperti nama lengkap, nomor telepon, dan sebagainya (opsional).
 
     ![27](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/9eb9f24b-2701-4803-b22c-1b0fb1467296)
 
-34.       ssh namapengguna@alamat_ip 
+29.       ssh namapengguna@alamat_ip 
     Perintah ssh digunakan untuk membuat koneksi SSH (Secure Shell) ke server atau host jarak jauh. Dalam perintah tersebut, Anda harus menggantikan "namapengguna" dengan nama pengguna yang valid di server tujuan, dan "alamat ip" dengan alamat IP server tujuan.
     ![28](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/312f31f9-229a-4e8f-9bbd-62c9f67e08a8)
 
-35.        whoami
+30.        whoami
     Perintah whoami digunakan di sistem Linux untuk menampilkan nama pengguna yang sedang masuk ke terminal atau shell saat ini.
 
     ![29](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/b57be02b-4f52-40ef-84c7-180f6104ff83)
 
-36.        lsb_release -a
+31.        lsb_release -a
     Perintah lsb_release -a digunakan untuk menampilkan informasi rilis distribusi Linux yang sedang digunakan. Ini memberikan informasi seperti nama distribusi, nomor versi, deskripsi, dan kode nama (jika ada).
 
     ![30](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/94e63db7-ad66-484b-9aac-0b1bc0efea8f)
 
-37.        echo
+32.        echo
     Perintah `echo` digunakan di terminal Linux untuk menampilkan teks yang diberikan ke layar. Ini adalah perintah sederhana yang sering digunakan dalam skrip shell atau sebagai alat debugging untuk menampilkan informasi ke layar.
     ![25](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/af74d3a7-0524-4fd0-8a5a-584740167376)
 
-38.        htop
+33.        htop
     htop adalah alat pemantauan sistem interaktif yang berbasis teks untuk terminal Linux. Ini merupakan alternatif yang lebih canggih dari top, yang menampilkan informasi yang lebih rinci tentang penggunaan sumber daya sistem seperti CPU, memori, swap, dan proses yang sedang berjalan.
 
     ![31](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/a517550f-5e42-4080-a2c7-62fcc6b0bc94)
 
-39.        xdg-open
+34.        xdg-open
     Perintah xdg-open digunakan untuk membuka berkas atau URL menggunakan aplikasi default yang terkait dengan jenis berkas atau URL tersebut.
 
     ![32](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/79381210-7654-4aca-a793-ef3eb4cd56c1)
 
-40.        last
+35.        last
     perintah `last` digunakan di sistem Linux untuk menampilkan riwayat masuk dan keluar pengguna yang tercatat dalam file log sistem
     ![33](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/040dac8f-3c78-43f0-b739-ffb655309955)
 
-41.        sl
+36.        sl
     perintah sl dimaksudkan untuk menghasilkan output sebuah lokomotif uap, dalam beberapa distribusi Linux, seperti Ubuntu
     ![sl](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/9669786e-a88a-4ac0-a04b-d8ffd8d44df0)
 
-42.       grep
+37.       grep
     Perintah `grep` digunakan untuk mencari teks dalam satu atau beberapa file. Ini sangat berguna untuk mengekstrak informasi yang relevan dari output perintah lain atau dari berkas teks.
 
-43.
+38.       du
+    Perintah du (Disk Usage) digunakan di sistem Linux untuk menampilkan informasi tentang penggunaan disk dari file dan direktori dalam sistem file. Perintah ini berguna untuk melihat ruang yang digunakan oleh berkas dan direktori secara rekursif di dalam sebuah direktori.  
+    ![38](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/e7bf6bc5-27fc-41f1-85ad-3571674d0869)
 
+39.      which
+    Perintah which  untuk menemukan lokasi di mana sebuah perintah tertentu berada. Ini membantu Anda mengetahui jalur lengkap dari sebuah perintah yang dapat dieksekusi.
+    ![39](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/fd18df4b-1f44-420d-bd0c-5857436835aa)
 
+40.     zip
+    Perintah zip digunakan di sistem Linux untuk mengompresi file atau direktori menjadi file zip. Ini memungkinkan Anda untuk mengemas beberapa berkas atau direktori ke dalam satu file zip, yang dapat membantu menghemat ruang penyimpanan dan memudahkan pengiriman atau penyimpanan.
+
+41.        shutdown
+    Perintah shutdown digunakan untuk mematikan, me-restart, atau menjadwalkan pemadaman sistem.
+
+42.        who
+    Perintah who digunakan untuk menampilkan informasi tentang pengguna yang saat ini masuk ke sistem. Biasanya, perintah ini menampilkan nama pengguna, terminal, dan waktu masuk.
+   
+    ![41](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/3902cf48-b6da-42f5-83ef-d893bbc4344c)
+
+43.        free -m
+    Perintah `free -m` digunakan untuk menampilkan informasi tentang penggunaan memori dalam unit megabita (MB). Dengan menggunakan opsi -m, perintah ini menampilkan output dalam satuan megabita, yang lebih mudah dibaca.
+    ![42](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/7e2ad09b-82f2-43a9-b832-cda2de8d3d9b)
+
+44.        ip a
+    Perintah `ip a` digunakan menampilkan informasi tentang antarmuka jaringan yang aktif pada komputer Anda. Ini mencakup informasi seperti alamat IP, alamat MAC, status antarmuka, dan parameter jaringan lainnya.
+    
+    ![44](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/1644c7b2-cb65-4115-b6e2-05fb4fea32b1)
+
+45.        netstat
+    Perintah `netstat` digunakan di sistem Linux untuk menampilkan informasi tentang koneksi jaringan, tabel rute, dan statistik antarmuka.
+
+    ![45](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/9059f434-980e-4924-9e83-a42fc0d12b09)
+
+47.        apt list tuned
+    Perintah apt list tuned digunakan untuk menampilkan daftar paket yang terkait dengan "tuned" yang dapat diinstal atau yang sudah diinstal di sistem menggunakan manajer paket APT (Advanced Package Tool) pada distribusi Linux seperti Ubuntu.
+    ![45 benar](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/fe2048c2-86fb-4491-9a08-5eb96a43c1cb)
+
+48.         lsof
+    Perintah lsof digunakan untuk menampilkan informasi tentang file yang sedang dibuka oleh proses yang berjalan.
+    ![47](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/a8139019-de5c-4837-8eaa-bcd3b59c88d3)
+
+49.        route
+    Perintah route digunakan untuk menampilkan dan mengelola tabel routing, yang menentukan rute jaringan yang diambil oleh paket data saat dikirim dari satu host ke host lain dalam jaringan.
+    ![48](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/72034306-4c62-4bd2-9d9e-24a79cd0896e)
+
+50.         info
+    menampilkan informasi tambahan
+
+    ![49](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/13ecf45a-14d4-4993-a66f-652d564abf90)
+
+51.        id
+    Perintah `id` digunakan di sistem Linux untuk menampilkan informasi tentang identitas pengguna yang sedang masuk ke dalam sistem
+    ![50](https://github.com/habibh028/50-commands-in-LinuxUbuntu/assets/126387192/90454f92-d18d-45f4-8283-07f2e0a26a33)
